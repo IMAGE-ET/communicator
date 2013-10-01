@@ -23,15 +23,43 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 372.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"acka",
-				"Package Control: Install Package"
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
 			],
 			[
 				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"acka",
 				"Package Control: Install Package"
 			],
 			[
@@ -47,7 +75,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -68,6 +96,9 @@
 	},
 	"file_history":
 	[
+		"/home/jmrbcu/development/communicator/README.md",
+		"/home/jmrbcu/.config/sublime-text-3/Packages/SideBarEnhancements/CHANGELOG",
+		"/home/jmrbcu/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/jmrbcu/development/imagis/imagis/vtk/const.py",
 		"/home/jmrbcu/slice_index.py",
 		"/home/jmrbcu/development/lob-python/lob/__init_.py",
@@ -76,7 +107,6 @@
 		"/home/jmrbcu/development/lob-python/LICENCE",
 		"/home/jmrbcu/development/stripe-python/LICENSE",
 		"/home/jmrbcu/development/lob-python/VERSION",
-		"/home/jmrbcu/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/jmrbcu/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/jmrbcu/.custom",
 		"/home/jmrbcu/.bashrc"
@@ -157,6 +187,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
 	"project": "",
 	"replace":
 	{
