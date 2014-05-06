@@ -15,3 +15,10 @@ Features:
 	* Extensible using a plugin system based on user defined tasks.
 	* HTTP/HTTPS support.
 	* Proxy support.
+
+Authors:
+________
+	Jose M. Rodriguez Bacallao (Main developer)
+	Yoandris Peña Meriño (App developer for Communicator)
+	
+	
